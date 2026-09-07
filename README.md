@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🌱 I’m currently learning **Next.js , Three.js**<br>- 📫 How to reach me **mk7004048@gmail.com**
+- 🌱 I’m currently learning **Machine Learning**<br>- 📫 How to reach me **mk7004048@gmail.com**
 
 
 ## 🌐 Socials:
